@@ -1,16 +1,13 @@
-### Hi there 👋
+### :cn:  Tom Wan
 
-<!--
-**huanggungfa/huanggungfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=huanggungfa&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true" />
 
-Here are some ideas to get you started:
+嗨~ 我是 广发
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前在深圳
+
+职业搬砖码农，想写代码写到 500 岁
+
+现在在[跨越速运公司]([https://shimo.im](https://www.ky-express.com/))做前端 TL。
+
+如果你想聊聊，可以给我[发邮件](mailto:1454556135@qq.com)。

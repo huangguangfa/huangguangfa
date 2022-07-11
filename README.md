@@ -8,6 +8,6 @@
 
 职业搬砖码农，想写代码写到 500 岁
 
-现在在[跨越速运公司](https://www.ky-express.com)做前端 TL。
+现在在[跨越速运公司](https://www.ky-express.com)做前端。
 
 如果你想聊聊，可以给我[发邮件](mailto:1454556135@qq.com)。
